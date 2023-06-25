@@ -39,7 +39,7 @@ pipenv shell
 
 ## Licenza / Licensing
 
-🐙 Este proxecto atópase baixo a licenza de Mozilla. Véxase [LICENSE](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/LICENSE) para o texto completo.
+🐙 Este proxecto atópase baixo a licenza de Mozilla. Véxase [LICENSE](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/LICENSE) para o texto completo.  
 🇬🇧 This project is licensed under the Mozilla License. See [LICENSE](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/LICENSE) for the full license text.
 
 ## Get in touch! 
