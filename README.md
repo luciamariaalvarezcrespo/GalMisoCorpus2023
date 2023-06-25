@@ -21,15 +21,11 @@
 - `/models`: Here are the already trained models.
 
 ## Instalación / Installation
-🐙 Utiliza a ferramenta [pipenv](https://pipenv-es.readthedocs.io/es/stable/) para instalar todas as dependencias.  
-🇬🇧 Use the [pipenv](https://pipenv-es.readthedocs.io/es/stable/) tool to install all the requirements.   
+🐙 Utiliza a ferramenta [requirements.txt](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/requirements.txt) para instalar todas as dependencias.  
+🇬🇧 Use the [requirements.tzxt](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/requirements.txt) tool to install all the requirements.   
 
 ```bash
-pip3 install pipenv
-git clone https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023
-cd scripts
-pipenv install
-pipenv shell
+pip3 install -r requirements.txt
 ```
 
 ## Contribucións / Contributing
