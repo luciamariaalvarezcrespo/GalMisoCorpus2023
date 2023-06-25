@@ -22,7 +22,7 @@
 
 ## Instalación / Installation
 🐙 Utiliza a ferramenta [requirements.txt](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/requirements.txt) para instalar todas as dependencias.  
-🇬🇧 Use the [requirements.tzxt](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/requirements.txt) tool to install all the requirements.   
+🇬🇧 Use the [requirements.txt](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/requirements.txt) tool to install all the requirements.   
 
 ```bash
 pip3 install -r requirements.txt
