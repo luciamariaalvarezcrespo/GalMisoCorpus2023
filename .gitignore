@@ -2,3 +2,4 @@
 scripts/cc.gl.300.bin
 scripts/cc.gl.300.bin.gz
 *.pyc
+.vscode/settings.json
