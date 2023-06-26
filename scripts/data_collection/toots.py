@@ -35,7 +35,7 @@ def timeline_and_save():
     Get all public toots from the instance and save them to a CSV file.
 
     """
-    output_file = os.path.dirname(__file__) + "/../corpus/toots_february.csv" # Change this to the name of the file you want to save the toots to
+    output_file = os.path.dirname(__file__) + "/../data/toots_february.csv" # Change this to the name of the file you want to save the toots to
     batch_size = 1000
 
     with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
