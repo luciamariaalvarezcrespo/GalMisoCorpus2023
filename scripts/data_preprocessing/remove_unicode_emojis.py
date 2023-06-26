@@ -1,6 +1,6 @@
 # Author: Lucía María Álvarez Crespo (GitHub: @luciamariaalvarezcrespo)
 # Last modified: 26/06/2023
-# Description: Get all public tweets given a list of tweet IDs and save them to a CSV file
+# Description: Remove emojis and HTML tags from the 'content' field of the toots
 # Python version: 3.10.6
 
 import csv
