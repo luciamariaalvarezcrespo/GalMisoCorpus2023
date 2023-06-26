@@ -9,13 +9,13 @@ def random_undersampling(X, y):
     """
     Apply random undersampling to a dataset.
 
-    Inputs:
-    X (array-like): Dataset.
-    y (array-like): Labels corresponding to the dataset.
+    Args:
+        X (array-like): Dataset.
+        y (array-like): Labels corresponding to the dataset.
 
-    Outputs:
-    X_resampled (array-like): Subsampled dataset.
-    y_resampled (array-like): Labels corresponding to the subsampled dataset.
+    Returns:
+        X_resampled (array-like): Subsampled dataset.
+        y_resampled (array-like): Labels corresponding to the subsampled dataset.
     """
 
     # Count the number of samples of each class

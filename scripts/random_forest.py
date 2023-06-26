@@ -19,9 +19,17 @@ from sklearn.metrics import f1_score, precision_score, recall_score, accuracy_sc
 from sklearn.model_selection import GridSearchCV, train_test_split
 from sklearn.pipeline import Pipeline
 
-# Entrances: string, being the tweet to be preprocessed.
-# Outputs: string, being the preprocessed tweet.
 def preprocess_tweet(tweet):
+    """
+    Preprocesses a tweet by applying various text transformations.
+
+    Args:
+        tweet (str): The tweet to be preprocessed.
+
+    Returns:
+        str: The preprocessed tweet.
+
+    """
     if not isinstance(tweet, str) or tweet is None:
         return None
     
@@ -36,10 +44,18 @@ def preprocess_tweet(tweet):
         return None
     return tweet
 
-# Generate sentence embeddings using FastText
-# Entrances: string, being the tweet to be preprocessed, and fasttext_model, being the FastText model.
-# Outputs: string, being the sentence embedding.
 def generate_sentence_embeddings(tweet, fasttext_model):
+    """
+    Generates sentence embeddings using FastText.
+
+    Args:
+        tweet (str): The tweet to be preprocessed.
+        fasttext_model: The FastText model used for generating embeddings.
+
+    Returns:
+        str: The sentence embedding.
+
+    """
     tokenizer = TweetTokenizer(preserve_case=False, reduce_len=True)
     tokens = tokenizer.tokenize(tweet)
     embeddings = [fasttext_model.get_word_vector(word) for word in tokens]
@@ -95,8 +111,8 @@ param_grid = {
 grid_search = GridSearchCV(estimator=bow_pipeline, param_grid=param_grid, scoring='f1', cv=10)
 grid_search.fit(X_train, y_train)
 best_model = grid_search.best_estimator_
-filename = 'best_model_RF.pkl'
-joblib.dump(best_model, filename)
+FILENAME = 'best_model_RF.pkl'
+joblib.dump(best_model, FILENAME)
 
 # Evaluate the best model
 y_pred = best_model.predict(X_test)
@@ -136,8 +152,8 @@ X_train, X_test, y_train, y_test = train_test_split(sentence_embeddings, y_res, 
 grid_search = GridSearchCV(estimator=bow_pipeline, param_grid=param_grid, scoring='f1', cv=10)
 grid_search.fit(X_train, y_train)
 best_model = grid_search.best_estimator_
-filename = 'best_model_RF_RUS.pkl'
-joblib.dump(best_model, filename)
+FILENAME = 'best_model_RF_RUS.pkl'
+joblib.dump(best_model, FILENAME)
 
 # Evaluate the best model
 y_pred = best_model.predict(X_test)
