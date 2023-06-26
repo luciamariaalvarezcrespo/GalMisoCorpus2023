@@ -49,12 +49,14 @@ def generate_sentence_embeddings(tweet, fasttext_model):
 # Load the dataset for class 0 (non-misogynous toots)
 df_toots = pd.read_csv(os.path.dirname(__file__) + "/../corpus/toots.csv")
 df_toots['content'] = df_toots['content'].apply(preprocess_tweet)
+df_toots = df_toots.dropna(subset=['content'])  # Remove rows with empty toots
 X_0 = df_toots['content']
 y_0 = pd.Series([0] * len(X_0))
 
 # Load the dataset for class 1 (misogynous tweets)
 df_tweets = pd.read_csv(os.path.dirname(__file__) + "/../corpus/tweets.csv")
 df_tweets['content'] = df_tweets['content'].apply(preprocess_tweet)
+df_tweets = df_tweets.dropna(subset=['content'])  # Remove rows with empty tweets
 X_1 = df_tweets['content'] 
 y_1 = pd.Series([1] * len(X_1))
 
