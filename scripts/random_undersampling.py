@@ -5,9 +5,18 @@
 
 import numpy as np
 
-# Entrances: X and y, being X the dataset and y the labels.
-# Outputs: X_resampled and y_resampled
 def random_undersampling(X, y):
+    """
+    Apply random undersampling to a dataset.
+
+    Inputs:
+    X (array-like): Dataset.
+    y (array-like): Labels corresponding to the dataset.
+
+    Outputs:
+    X_resampled (array-like): Subsampled dataset.
+    y_resampled (array-like): Labels corresponding to the subsampled dataset.
+    """
 
     # Count the number of samples of each class
     counts = np.bincount(y)
