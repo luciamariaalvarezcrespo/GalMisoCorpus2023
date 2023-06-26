@@ -133,14 +133,6 @@ print(f'Accuracy: {accuracy:.4f}')
 # Perform undersampling
 X_res, y_res = random_undersampling.random_undersampling(X, y)
 
-# Define the pipeline for BoW representation and classifier
-bow_pipeline = Pipeline([
-    ('vect', CountVectorizer()),
-    ('tfidf', TfidfTransformer()),
-    ('select_k_best', SelectKBest(score_func=chi2)),
-    ('clf', rf_classifier)
-])
-
 # Generate sentence embeddings
 sentence_embeddings = X_res.apply(lambda tweet: generate_sentence_embeddings(tweet, fasttext_model))
 sentence_embeddings = np.array(sentence_embeddings.tolist())
