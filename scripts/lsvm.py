@@ -12,7 +12,7 @@ import joblib
 import fasttext
 import fasttext.util
 from nltk.tokenize import TweetTokenizer
-from sklearn.svm import SVC
+from sklearn.svm import LinearSVC
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
 from sklearn.feature_selection import SelectKBest, chi2
 from sklearn.metrics import f1_score, precision_score, recall_score, accuracy_score
@@ -85,7 +85,7 @@ fasttext.util.download_model('gl', if_exists='ignore')  # Galician
 fasttext_model = fasttext.load_model('cc.gl.300.bin')
 
 # Define the machine learning classifier
-classifier = SVC()
+classifier = LinearSVC()
 
 # Define the pipeline for BoW representation and classifier
 bow_pipeline = Pipeline([
@@ -104,15 +104,16 @@ X_train, X_test, y_train, y_test = train_test_split(sentence_embeddings, y, test
 
 # Define the parameter grid
 param_grid = {
-    'clf__kernel': ['poly'],
-    'clf__C': [1]
+    'clf__penalty': ['l1'],
+    'clf__loss': ['squared_hinge'],
+    'clf__dual': [False]
 }
 
 # Perform Grid Search to find the best model
 grid_search = GridSearchCV(estimator=bow_pipeline, param_grid=param_grid, scoring='f1', cv=10)
 grid_search.fit(X_train, y_train)
 best_model = grid_search.best_estimator_
-FILENAME = 'best_model_SVM.pkl'
+FILENAME = 'best_model_LSVM.pkl'
 joblib.dump(best_model, FILENAME)
 
 # Evaluate the best model
@@ -123,7 +124,7 @@ recall = recall_score(y_test, y_pred, average='weighted')
 accuracy = accuracy_score(y_test, y_pred)
 
 # Print the results
-print('Support Vector Machine')
+print('Linear Support Vector Machine')
 print(f'Best F1 Score: {f1:.4f}')
 print(f'Precision: {precision:.4f}')
 print(f'Recall: {recall:.4f}')
@@ -153,7 +154,7 @@ X_train, X_test, y_train, y_test = train_test_split(sentence_embeddings, y_res, 
 grid_search = GridSearchCV(estimator=bow_pipeline, param_grid=param_grid, scoring='f1', cv=10)
 grid_search.fit(X_train, y_train)
 best_model = grid_search.best_estimator_
-FILENAME = 'best_model_SVM_RUS.pkl'
+FILENAME = 'best_model_LSVM_RUS.pkl'
 joblib.dump(best_model, FILENAME)
 
 # Evaluate the best model
@@ -164,7 +165,7 @@ recall = recall_score(y_test, y_pred, average='weighted')
 accuracy = accuracy_score(y_test, y_pred)
 
 # Print the results
-print('Support Vector Machine with Random Undersampling')
+print('Linear Support Vector Machine with Random Undersampling')
 print(f'Best F1 Score: {f1:.4f}')
 print(f'Precision: {precision:.4f}')
 print(f'Recall: {recall:.4f}')
