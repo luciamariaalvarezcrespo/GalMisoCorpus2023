@@ -65,5 +65,15 @@ pip3 install -r requirements.txt
 🐙 Este proxecto atópase baixo a licenza de Mozilla. Véxase [LICENSE](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/LICENSE) para o texto completo.  
 🇬🇧 This project is licensed under the Mozilla License. See [LICENSE](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/LICENSE) for the full license text.
 
+## Cítao como / Cite as
+
+@inproceedings{alvarez2024galician,
+  title={A Galician Corpus for Misogyny Detection Online},
+  author={{\'A}lvarez-Crespo, Luc{\'\i}a M and Castro-Souto, Laura M},
+  booktitle={Proceedings of the 16th International Conference on Computational Processing of Portuguese},
+  pages={22--31},
+  year={2024}
+}
+
 ## Manteñamos o contacto! / Get in touch! 
 [@luciamac_](https://www.twitter.com/luciamac_)
