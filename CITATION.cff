@@ -20,7 +20,7 @@ preferred-citation:
   - family-names: "Castro-Souto"
     given-names: "Laura M."
     orcid: "https://orcid.org/0000-0002-3028-1523"
-  booktitle: "Proceedings of the 16th International Conference on Computational Processing of Portuguese"
+  journal: "Proceedings of the 16th International Conference on Computational Processing of Portuguese"
   start: 22 # First page number
   end: 31 # Last page number
   title: "A Galician Corpus for Misogyny Detection Online"
