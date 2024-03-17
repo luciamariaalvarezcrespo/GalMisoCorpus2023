@@ -1,0 +1,27 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Álvarez-Crespo"
+  given-names: "Lucía M."
+  orcid: "https://orcid.org/0009-0009-1870-2581"
+- family-names: "Castro-Souto"
+  given-names: "Laura M."
+  orcid: "https://orcid.org/0000-0002-3028-1523"
+title: "GalMisoCorpus2023"
+version: 1.0.0
+date-released: 2023-06-22
+url: "https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Álvarez-Crespo"
+    given-names: "Lucía M."
+    orcid: "https://orcid.org/0009-0009-1870-2581"
+  - family-names: "Castro-Souto"
+    given-names: "Laura M."
+    orcid: "https://orcid.org/0000-0002-3028-1523"
+  booktitle: "Proceedings of the 16th International Conference on Computational Processing of Portuguese"
+  start: 22 # First page number
+  end: 31 # Last page number
+  title: "A Galician Corpus for Misogyny Detection Online"
+  year: 2024
