@@ -17,6 +17,11 @@ preferred-citation:
       given-names: Laura M
   collection-title: Proceedings of the 16th International Conference on Computational Processing of Portuguese
   collection-type: proceedings
+  authors:
+    - family-names: Álvarez-Crespo
+      given-names: Lucía M
+    - family-names: Castro-Souto
+      given-names: Laura M
   editors:
     - family-names: Gamallo
       given-names: Pablo
@@ -34,7 +39,6 @@ preferred-citation:
       given-names: Raquel
   start: 22
   end: 31
-  month: mar
   year: 2024
   publisher:
     name: Association for Computational Lingustics
