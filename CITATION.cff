@@ -9,17 +9,17 @@ authors:
 url: https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023
 preferred-citation:
   type: conference-paper
-  title: "A Galician Corpus for Misogyny Detection Online"
+  title: "A {G}alician Corpus for Misogyny Detection Online"
   authors:
-    - family-names: Álvarez-Crespo
-      given-names: Lucía M
+    - family-names: {\'A}lvarez-Crespo
+      given-names: Luc{\'\i}a M.
     - family-names: Castro-Souto
       given-names: Laura M
   collection-title: Proceedings of the 16th International Conference on Computational Processing of Portuguese
   collection-type: proceedings
   authors:
-    - family-names: Álvarez-Crespo
-      given-names: Lucía M
+    - family-names: {\'A}lvarez-Crespo
+      given-names: Luc{\'\i}a M.
     - family-names: Castro-Souto
       given-names: Laura M
   editors:
