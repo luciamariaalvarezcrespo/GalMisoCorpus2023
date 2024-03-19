@@ -7,21 +7,20 @@ authors:
 - family-names: "Castro-Souto"
   given-names: "Laura M."
   orcid: "https://orcid.org/0000-0002-3028-1523"
-title: "GalMisoCorpus2023"
+title: "A Galician Corpus for Misogyny Detection Online"
 version: 1.0.0
 date-released: 2023-06-22
 url: "https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023"
-preferred-citation:
-  type: conference-paper
-  authors:
-  - family-names: "Álvarez-Crespo"
-    given-names: "Lucía M."
-    orcid: "https://orcid.org/0009-0009-1870-2581"
-  - family-names: "Castro-Souto"
-    given-names: "Laura M."
-    orcid: "https://orcid.org/0000-0002-3028-1523"
-  journal: "Proceedings of the 16th International Conference on Computational Processing of Portuguese"
-  start: 22 # First page number
-  end: 31 # Last page number
-  title: "A Galician Corpus for Misogyny Detection Online"
+collection-title: Proceedings of the 16th International Conference on Computational Processing of Portuguese
+  collection-type: proceedings
+  editors:
+    - family-names: "Álvarez-Crespo"
+      given-names: "Lucía M."
+      orcid: "https://orcid.org/0009-0009-1870-2581"
+    - family-names: "Castro-Souto"
+      given-names: "Laura M."
+      orcid: "https://orcid.org/0000-0002-3028-1523"
+  start: 22
+  end: 31
   year: 2024
+  url: https://aclanthology.org/2024.propor-1.3.pdf
