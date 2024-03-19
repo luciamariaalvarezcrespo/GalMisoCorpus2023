@@ -66,14 +66,27 @@ pip3 install -r requirements.txt
 🇬🇧 This project is licensed under the Mozilla License. See [LICENSE](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/LICENSE) for the full license text.
 
 ## Cítao como / Cite as
-
-@inproceedings{alvarez2024galician,
-  title={A Galician Corpus for Misogyny Detection Online},
-  author={{\'A}lvarez-Crespo, Luc{\'\i}a M and Castro-Souto, Laura M},
-  booktitle={Proceedings of the 16th International Conference on Computational Processing of Portuguese},
-  pages={22--31},
-  year={2024}
+```
+@inproceedings{alvarez-crespo-castro-2024-galician,
+    title = "A {G}alician Corpus for Misogyny Detection Online",
+    author = "{\'A}lvarez-Crespo, Luc{\'\i}a M.  and
+      Castro, Laura M.",
+    editor = "Gamallo, Pablo  and
+      Claro, Daniela  and
+      Teixeira, Ant{\'o}nio  and
+      Real, Livy  and
+      Garcia, Marcos  and
+      Oliveira, Hugo Gon{\c{c}}alo  and
+      Amaro, Raquel",
+    booktitle = "Proceedings of the 16th International Conference on Computational Processing of Portuguese",
+    month = mar,
+    year = "2024",
+    address = "Santiago de Compostela, Galicia/Spain",
+    publisher = "Association for Computational Lingustics",
+    url = "https://aclanthology.org/2024.propor-1.3",
+    pages = "22--31",
 }
+```
 
 ## Manteñamos o contacto! / Get in touch! 
 [@luciamac_](https://www.twitter.com/luciamac_)
