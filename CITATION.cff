@@ -2,19 +2,14 @@ cff-version: 1.2.0
 message: If you use this software, please cite it as below.
 title: GalMisoCorpus2023
 authors:
-  - family-names: Álvarez-Crespo
-    given-names: Lucía M
+  - family-names: {\'A}lvarez-Crespo
+    given-names: Luc{\'\i}a M.
   - family-names: Castro-Souto
     given-names: Laura M
 url: https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023
 preferred-citation:
   type: conference-paper
   title: "A {G}alician Corpus for Misogyny Detection Online"
-  authors:
-    - family-names: {\'A}lvarez-Crespo
-      given-names: Luc{\'\i}a M.
-    - family-names: Castro-Souto
-      given-names: Laura M
   collection-title: Proceedings of the 16th International Conference on Computational Processing of Portuguese
   collection-type: proceedings
   authors:
