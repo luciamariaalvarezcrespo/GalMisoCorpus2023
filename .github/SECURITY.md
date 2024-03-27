@@ -2,7 +2,7 @@
 
 ## Avisar dunha vulnerabilidade
 
-Se pensas que atopaches unha vulnerabilidade de seguridad, por favor avisa a través de https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/security/advisories. Investigaremos todos os avisos lexítimos e faremos todo o que poidamos para arranxar o problema.
+Se pensas que atopaches unha vulnerabilidade de seguridade, por favor avisa a través de https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/security/advisories. Investigaremos todos os avisos lexítimos e faremos todo o que poidamos para arranxar o problema.
 
 Se a vulnerabilidade de seguridade é aceptada, un parche será creado para preparar un commit específico de corrección de erros o antes posíbel (dependendo da complexidade da solución).
 
