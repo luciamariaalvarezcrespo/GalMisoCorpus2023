@@ -1,7 +1,8 @@
 # Author: Lucía María Álvarez Crespo (GitHub: @luciamariaalvarezcrespo)
-# Last modified: 26/06/2023
+# Last modified: 01/04/2024
 # Description: Detect the language of the tweets and add a 'language' field to the CSV file
 # Python version: 3.10.6
+# License: Mozilla Public License Version 2.0
 
 import csv
 import os

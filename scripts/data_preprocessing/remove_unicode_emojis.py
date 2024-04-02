@@ -1,7 +1,8 @@
 # Author: Lucía María Álvarez Crespo (GitHub: @luciamariaalvarezcrespo)
-# Last modified: 26/06/2023
+# Last modified: 01/04/2024
 # Description: Remove emojis and HTML tags from the 'content' field of the toots
 # Python version: 3.10.6
+# License: Mozilla Public License Version 2.0
 
 import csv
 import os
