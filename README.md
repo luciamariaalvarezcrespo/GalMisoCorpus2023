@@ -1,11 +1,11 @@
-# GalMisoCorpus 2023
+# :bookmark_tabs: GalMisoCorpus 2023
 
-[![GitHub issues](https://img.shields.io/github/issues/luciamariaalvarezcrespo/GalMisoCorpus2023)](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/issues)
-[![GitHub forks](https://img.shields.io/github/forks/luciamariaalvarezcrespo/GalMisoCorpus2023)](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/network)
-[![GitHub stars](https://img.shields.io/github/stars/luciamariaalvarezcrespo/GalMisoCorpus2023)](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/stargazers)
-[![GitHub license](https://img.shields.io/github/license/luciamariaalvarezcrespo/GalMisoCorpus2023)](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/luciamariaalvarezcrespo/GalMisoCorpus2023)](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/issues) [![GitHub license](https://img.shields.io/github/license/luciamariaalvarezcrespo/GalMisoCorpus2023)](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/downloads/release/python-310/)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange)](https://scikit-learn.org/)
+
+[![GitHub forks](https://img.shields.io/github/forks/luciamariaalvarezcrespo/GalMisoCorpus2023)](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/network)
+[![GitHub stars](https://img.shields.io/github/stars/luciamariaalvarezcrespo/GalMisoCorpus2023)](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/stargazers) [![GitHub watching](https://img.shields.io/github/watchers/luciamariaalvarezcrespo/GalMisoCorpus2023?style=social)](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/watchers)
 
 ##### 🐙 _O primeiro corpus galego para a detección de misoxinia_ 🐙 // 🇬🇧 _The First Galician corpus for misogyny detection_ 🇬🇧
 
@@ -66,7 +66,7 @@ pip3 install -r requirements.txt
 🇬🇧 This project is licensed under the Mozilla License. See [LICENSE](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/LICENSE) for the full license text.
 
 ## Cítao como / Cite as
-```
+```bib
 @inproceedings{alvarez-crespo-castro-2024-galician,
     title = "A {G}alician Corpus for Misogyny Detection Online",
     author = "{\'A}lvarez-Crespo, Luc{\'\i}a M.  and
