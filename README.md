@@ -68,23 +68,16 @@ pip3 install -r requirements.txt
 ## Cítao como / Cite as
 ```bib
 @inproceedings{alvarez-crespo-castro-2024-galician,
-    title = "A {G}alician Corpus for Misogyny Detection Online",
-    author = "{\'A}lvarez-Crespo, Luc{\'\i}a M.  and
-      Castro, Laura M.",
-    editor = "Gamallo, Pablo  and
-      Claro, Daniela  and
-      Teixeira, Ant{\'o}nio  and
-      Real, Livy  and
-      Garcia, Marcos  and
-      Oliveira, Hugo Gon{\c{c}}alo  and
-      Amaro, Raquel",
-    booktitle = "Proceedings of the 16th International Conference on Computational Processing of Portuguese",
-    month = mar,
-    year = "2024",
-    address = "Santiago de Compostela, Galicia/Spain",
-    publisher = "Association for Computational Lingustics",
-    url = "https://aclanthology.org/2024.propor-1.3",
-    pages = "22--31",
+  title     = "A {G}alician Corpus for Misogyny Detection Online",
+  author    = "{\'A}lvarez-Crespo, Luc{\'\i}a M. and Castro, Laura M.",
+  editor    = "Gamallo, Pablo  and Claro, Daniela and Teixeira, Ant{\'o}nio and Real, Livy  and Garcia, Marcos  and Oliveira, Hugo Gon{\c{c}}alo  and Amaro, Raquel",
+  booktitle = "Proceedings of the 16th International Conference on Computational Processing of Portuguese",
+  month     = mar,
+  year      = "2024",
+  address   = "Santiago de Compostela, Galicia/Spain",
+  publisher = "Association for Computational Lingustics",
+  url       = "https://aclanthology.org/2024.propor-1.3",
+  pages     = "22--31",
 }
 ```
 
