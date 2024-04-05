@@ -1,11 +1,11 @@
-# GalMisoCorpus 2023
+# :bookmark_tabs: GalMisoCorpus 2023
 
-[![GitHub issues](https://img.shields.io/github/issues/luciamariaalvarezcrespo/GalMisoCorpus2023)](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/issues)
-[![GitHub forks](https://img.shields.io/github/forks/luciamariaalvarezcrespo/GalMisoCorpus2023)](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/network)
-[![GitHub stars](https://img.shields.io/github/stars/luciamariaalvarezcrespo/GalMisoCorpus2023)](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/stargazers)
-[![GitHub license](https://img.shields.io/github/license/luciamariaalvarezcrespo/GalMisoCorpus2023)](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/luciamariaalvarezcrespo/GalMisoCorpus2023)](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/issues) [![GitHub license](https://img.shields.io/github/license/luciamariaalvarezcrespo/GalMisoCorpus2023)](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/downloads/release/python-310/)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange)](https://scikit-learn.org/)
+
+[![GitHub forks](https://img.shields.io/github/forks/luciamariaalvarezcrespo/GalMisoCorpus2023)](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/network)
+[![GitHub stars](https://img.shields.io/github/stars/luciamariaalvarezcrespo/GalMisoCorpus2023)](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/stargazers) [![GitHub watching](https://img.shields.io/github/watchers/luciamariaalvarezcrespo/GalMisoCorpus2023?style=social)](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/watchers)
 
 ##### 🐙 _O primeiro corpus galego para a detección de misoxinia_ 🐙 // 🇬🇧 _The First Galician corpus for misogyny detection_ 🇬🇧
 
@@ -40,21 +40,21 @@ pip3 install -r requirements.txt
 ## Contribucións / Contributing
 🐙 As pull requests son benvidas. Para cambios maiores, abride primeiro unha issue para debater o que queirades cambiar, por favor.  
 
-> [!TIP] Así é como lle suxerimos que propoña un cambio neste proxecto:
+> Así é como lle suxerimos que propoña un cambio neste proxecto:
 >
-> 1. [Fai un fork deste proxecto][fork] na túa conta.
-> 2. [Crea unha nova póla][branch] para o cambio que pretende facer.
-> 3. Fai os cambios no teu fork.
-> 4. [Envía unha pull request][pr] dende a póla do teu fork á nosa pola `main`.
+> > 1. [Fai un fork deste proxecto][fork] na túa conta.
+> > 2. [Crea unha nova póla][branch] para o cambio que pretende facer.
+> > 3. Fai os cambios no teu fork.
+> > 4. [Envía unha pull request][pr] dende a póla do teu fork á nosa pola `main`.
 
 🇬🇧 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.  
 
-> [!TIP] Here’s how we suggest you go about proposing a change to this project:  
+> Here’s how we suggest you go about proposing a change to this project:  
 >
-> 1. [Fork this project][fork] to your account.
-> 2. [Create a branch][branch] for the change you intend to make.
-> 3. Make your changes to your fork.
-> 4. [Send a pull request][pr] from your fork's branch to our `main` branch.
+>> 1. [Fork this project][fork] to your account.
+>> 2. [Create a branch][branch] for the change you intend to make.
+>> 3. Make your changes to your fork.
+>> 4. [Send a pull request][pr] from your fork's branch to our `main` branch.
 
 [fork]: https://help.github.com/articles/fork-a-repo/
 [branch]: https://help.github.com/articles/creating-and-deleting-branches-within-your-repository
@@ -66,25 +66,18 @@ pip3 install -r requirements.txt
 🇬🇧 This project is licensed under the Mozilla License. See [LICENSE](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/LICENSE) for the full license text.
 
 ## Cítao como / Cite as
-```
+```bib
 @inproceedings{alvarez-crespo-castro-2024-galician,
-    title = "A {G}alician Corpus for Misogyny Detection Online",
-    author = "{\'A}lvarez-Crespo, Luc{\'\i}a M.  and
-      Castro, Laura M.",
-    editor = "Gamallo, Pablo  and
-      Claro, Daniela  and
-      Teixeira, Ant{\'o}nio  and
-      Real, Livy  and
-      Garcia, Marcos  and
-      Oliveira, Hugo Gon{\c{c}}alo  and
-      Amaro, Raquel",
-    booktitle = "Proceedings of the 16th International Conference on Computational Processing of Portuguese",
-    month = mar,
-    year = "2024",
-    address = "Santiago de Compostela, Galicia/Spain",
-    publisher = "Association for Computational Lingustics",
-    url = "https://aclanthology.org/2024.propor-1.3",
-    pages = "22--31",
+  title     = "A {G}alician Corpus for Misogyny Detection Online",
+  author    = "{\'A}lvarez-Crespo, Luc{\'\i}a M. and Castro, Laura M.",
+  editor    = "Gamallo, Pablo  and Claro, Daniela and Teixeira, Ant{\'o}nio and Real, Livy  and Garcia, Marcos  and Oliveira, Hugo Gon{\c{c}}alo  and Amaro, Raquel",
+  booktitle = "Proceedings of the 16th International Conference on Computational Processing of Portuguese",
+  month     = mar,
+  year      = "2024",
+  address   = "Santiago de Compostela, Galicia/Spain",
+  publisher = "Association for Computational Lingustics",
+  url       = "https://aclanthology.org/2024.propor-1.3",
+  pages     = "22--31",
 }
 ```
 
