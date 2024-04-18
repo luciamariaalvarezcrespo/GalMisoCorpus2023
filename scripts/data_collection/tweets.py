@@ -1,7 +1,8 @@
 # Author: Lucía María Álvarez Crespo (GitHub: @luciamariaalvarezcrespo)
-# Last modified: 26/06/2023
+# Last modified: 01/04/2024
 # Description: Get all public tweets given a list of tweet IDs and save them to a CSV file
 # Python version: 3.10.6
+# License: Mozilla Public License Version 2.0
 
 import time
 import csv

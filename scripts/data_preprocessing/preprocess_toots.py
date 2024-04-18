@@ -1,7 +1,8 @@
 # Author: Lucía María Álvarez Crespo (GitHub: @luciamariaalvarezcrespo)
-# Last modified: 26/06/2023
+# Last modified: 01/04/2024
 # Description: Combine the data from the CSV files containing the toots and write it to a single CSV file
 # Python version: 3.10.6
+# License: Mozilla Public License Version 2.0
 
 import os
 import csv
