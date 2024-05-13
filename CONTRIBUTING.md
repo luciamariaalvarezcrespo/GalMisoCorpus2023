@@ -125,22 +125,56 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/luciam
 <!-- You might want to create an issue template for enhancement suggestions that can be used as a guide and that defines the structure of the information to be included. If you do so, reference it here in the description. -->
 
 ### Your First Code Contribution
-<!-- TODO
-include Setup of env, IDE and typical getting started instructions?
 
--->
+If you're new to contributing to the GalMisoCorpus 2023 project, here are some steps to get started:
 
-### Improving The Documentation
-<!-- TODO
-Updating, improving and correcting the documentation
+1. Set up your development environment:
+    - Install the necessary software and dependencies, such as Node.js and npm.
+    - Clone the project repository to your local machine.
 
--->
+2. Choose an IDE (Integrated Development Environment) that you're comfortable with. Some popular options include:
+    - Visual Studio Code
+    - IntelliJ IDEA
+    - Eclipse
 
-## Styleguides
-### Commit Messages
-<!-- TODO
+3. Familiarize yourself with the project structure and codebase:
+    - Read the project documentation, including the README file and any relevant wiki pages.
+    - Explore the existing code to understand how different components are implemented.
 
--->
+4. Find an issue or feature to work on:
+    - Check the project's issue tracker for open issues that you're interested in.
+    - If you have an idea for a new feature or improvement, create a new issue to discuss it with the project team.
+
+5. Fork the project repository:
+    - Click on the "Fork" button on the GitHub page of the project repository.
+    - This will create a copy of the repository under your GitHub account.
+
+6. Create a new branch:
+    - Switch to the main branch of your forked repository.
+    - Create a new branch with a descriptive name for your contribution.
+
+7. Make your code changes:
+    - Use your chosen IDE to make the necessary code modifications.
+    - Write tests to ensure the correctness of your changes, if applicable.
+
+8. Commit and push your changes:
+    - Commit your changes with a clear and descriptive commit message.
+    - Push your changes to your forked repository.
+
+9. Create a pull request:
+    - Go to the GitHub page of the original project repository.
+    - Click on the "New pull request" button.
+    - Select your forked repository and branch as the base and compare branches.
+    - Provide a detailed description of your changes in the pull request.
+
+10. Collaborate and iterate:
+     - Engage in discussions with the project team and address any feedback or suggestions.
+     - Make further changes to your code based on the feedback received.
+
+11. Get your contribution merged:
+     - Once your pull request is reviewed and approved, a project maintainer will merge your changes into the main codebase.
+
+Congratulations! You have made your first code contribution to the GalMisoCorpus 2023 project. Thank you for your contribution!
 
 ## Join The Project Team
 <!-- TODO -->
