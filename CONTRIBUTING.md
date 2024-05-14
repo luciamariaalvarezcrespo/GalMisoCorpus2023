@@ -129,8 +129,8 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/luciam
 If you're new to contributing to the GalMisoCorpus 2023 project, here are some steps to get started:
 
 1. Set up your development environment:
-    - Install the necessary software and dependencies, such as Node.js and npm.
     - Clone the project repository to your local machine.
+    - Install the necessary software and dependencies described in the ```requirements.txt```.
 
 2. Choose an IDE (Integrated Development Environment) that you're comfortable with. Some popular options include:
     - Visual Studio Code
