@@ -132,10 +132,7 @@ If you're new to contributing to the GalMisoCorpus 2023 project, here are some s
     - Clone the project repository to your local machine.
     - Install the necessary software and dependencies described in the ```requirements.txt```.
 
-2. Choose an IDE (Integrated Development Environment) that you're comfortable with. Some popular options include:
-    - Visual Studio Code
-    - IntelliJ IDEA
-    - Eclipse
+2. Choose an IDE (Integrated Development Environment) that you're comfortable with. The one I'm currrently using is Visual Studio Code.
 
 3. Familiarize yourself with the project structure and codebase:
     - Read the project documentation, including the README file and any relevant wiki pages.
