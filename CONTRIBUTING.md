@@ -140,7 +140,7 @@ If you're new to contributing to the GalMisoCorpus 2023 project, here are some s
 
 4. Find an issue or feature to work on:
     - Check the project's issue tracker for open issues that you're interested in.
-    - If you have an idea for a new feature or improvement, create a new issue to discuss it with the project team.
+    - If you have an idea for a new feature or improvement, create a new issue to discuss it with the team.
 
 5. Fork the project repository:
     - Click on the "Fork" button on the GitHub page of the project repository.
