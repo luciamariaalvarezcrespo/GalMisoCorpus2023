@@ -9,27 +9,27 @@
 
 ##### 🐙 _O primeiro corpus galego para a detección de misoxinia_ 🐙 // 🇬🇧 _The First Galician corpus for misogyny detection_ 🇬🇧
 
-# Corpus
+# :books: Corpus
 
 🐙 Este repositorio contén un corpus de chíos e toots procedentes de Twitter e Mastodon para a detección de misoxinia en lingua galega. Asemade, engádense os modelos adestrados co corpus proposto e os scripts desenvolvidos tanto para a creación do corpus como para o adestramento dos modelos.  
 
 🇬🇧 This repository contains a corpus of tweets and toots from Twitter and Mastodon for the detection of misogyny in the Galician language. Additionally, it includes the trained models with the proposed corpus and the scripts developed both for creating the corpus and training the models.
 
-## Estrutura do repositorio / Repository structure
+# :file_folder: Estrutura do repositorio / Repository structure
 
-### 🐙 Galego
+## 🐙 Galego
 
 > - `/corpus`: aquí atópase o corpus utilizado para os adestramentos, así como o non preprocesado para interese dos grupos de investigación.
 > - `/scripts`: aquí atópanse os scripts usados durante a recompilación do corpus e durante o adestramento dos modelos. Engadíronse, tamén, scripts que axudaron no proceso de colleita de datos e de procesamento dos textos.
 > - `/models`: aquí atópanse os modelos xa adestrados.
 
-### 🇬🇧 English
+## 🇬🇧 English
 
 > - `/corpus`: Here you will find the corpus used for training, as well as the non-preprocessed corpus for the interest of research groups.
 > - `/scripts`: Here are the scripts used during the creation of the corpus and during the training of the models. Scripts were also added to assist in the data collection and text processing processes.
 > - `/models`: Here are the already trained models.
 
-## Instalación / Installation
+# :wrench: Instalación / Installation
 🐙 Utiliza a ferramenta [requirements.txt](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/requirements.txt) para instalar todas as dependencias.  
 🇬🇧 Use the [requirements.txt](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/requirements.txt) tool to install all the requirements.   
 
@@ -37,7 +37,7 @@
 pip3 install -r requirements.txt
 ```
 
-## Contribucións / Contributing
+# :open_hands: Contribucións / Contributing
 🐙 As pull requests son benvidas. Para cambios maiores, abride primeiro unha issue para debater o que queirades cambiar, por favor.  
 
 > [!TIP]
@@ -62,12 +62,12 @@ pip3 install -r requirements.txt
 [branch]: https://help.github.com/articles/creating-and-deleting-branches-within-your-repository
 [pr]: https://help.github.com/articles/using-pull-requests/
 
-## Licenza / Licensing
+# Licenza / Licensing
 
 🐙 Este proxecto atópase baixo a licenza de Mozilla. Véxase [LICENSE](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/LICENSE) para o texto completo.  
 🇬🇧 This project is licensed under the Mozilla License. See [LICENSE](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/LICENSE) for the full license text.
 
-## Cítao como / Cite as
+# :scroll: Cítao como / Cite as
 ```bib
 @inproceedings{alvarez-crespo-castro-2024-galician,
   title     = "A {G}alician Corpus for Misogyny Detection Online",
@@ -83,5 +83,5 @@ pip3 install -r requirements.txt
 }
 ```
 
-## Manteñamos o contacto! / Get in touch! 
+# :telephone_receiver: Manteñamos o contacto! / Get in touch! 
 [@luciamac_](https://www.twitter.com/luciamac_)
