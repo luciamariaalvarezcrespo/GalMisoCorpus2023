@@ -62,12 +62,12 @@ pip3 install -r requirements.txt
 [branch]: https://help.github.com/articles/creating-and-deleting-branches-within-your-repository
 [pr]: https://help.github.com/articles/using-pull-requests/
 
-# Licenza / Licensing
+# :scroll: Licenza / Licensing
 
 🐙 Este proxecto atópase baixo a licenza de Mozilla. Véxase [LICENSE](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/LICENSE) para o texto completo.  
 🇬🇧 This project is licensed under the Mozilla License. See [LICENSE](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/LICENSE) for the full license text.
 
-# :scroll: Cítao como / Cite as
+# :bookmark: Cítao como / Cite as
 ```bib
 @inproceedings{alvarez-crespo-castro-2024-galician,
   title     = "A {G}alician Corpus for Misogyny Detection Online",
