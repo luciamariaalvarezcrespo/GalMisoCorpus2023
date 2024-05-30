@@ -9,7 +9,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 > And if you like the project, but just don't have time to contribute, that's fine. There are other easy ways to support the project and show your appreciation, which we would also be very happy about:
 > - Cite our [paper](https://aclanthology.org/2024.propor-1.3/)
 > - [Star](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/stargazers) the project
-> - Tweet about it
+> - [Tweet](https://twitter.com/intent/tweet?text=Check%20out%20the%20GalMisoCorpus%202023%20project%20on%20GitHub:%20https%3A%2F%2Fgithub.com%2Fluciamariaalvarezcrespo%2FGalMisoCorpus2023) about it
 > - Refer this project in your project's readme
 > - Mention the project at local meetups and tell your friends/colleagues
 
