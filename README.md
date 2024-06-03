@@ -15,7 +15,7 @@
 
 🇬🇧 This repository contains a corpus of tweets and toots from Twitter and Mastodon for the detection of misogyny in the Galician language. Additionally, it includes the trained models with the proposed corpus and the scripts developed both for creating the corpus and training the models.
 
-# :file_folder: Estrutura do repositorio / Repository structure
+# Estrutura do repositorio / Repository structure :file_folder:
 
 ## 🐙 Galego
 
@@ -29,7 +29,7 @@
 > - `/scripts`: Here are the scripts used during the creation of the corpus and during the training of the models. Scripts were also added to assist in the data collection and text processing processes.
 > - `/models`: Here are the already trained models.
 
-# :wrench: Instalación / Installation
+# Instalación / Installation :wrench:
 🐙 Utiliza a ferramenta [requirements.txt](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/requirements.txt) para instalar todas as dependencias.  
 🇬🇧 Use the [requirements.txt](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/requirements.txt) tool to install all the requirements.   
 
@@ -37,7 +37,7 @@
 pip3 install -r requirements.txt
 ```
 
-# :open_hands: Contribucións / Contributing
+# Contribucións / Contributing :open_hands:
 🐙 As pull requests son benvidas. Para cambios maiores, abride primeiro unha issue para debater o que queirades cambiar, por favor.  
 
 > [!TIP]
@@ -62,12 +62,12 @@ pip3 install -r requirements.txt
 [branch]: https://help.github.com/articles/creating-and-deleting-branches-within-your-repository
 [pr]: https://help.github.com/articles/using-pull-requests/
 
-# :scroll: Licenza / Licensing
+# Licenza / Licensing :scroll:
 
 🐙 Este proxecto atópase baixo a licenza de Mozilla. Véxase [LICENSE](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/LICENSE) para o texto completo.  
 🇬🇧 This project is licensed under the Mozilla License. See [LICENSE](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/LICENSE) for the full license text.
 
-# :bookmark: Cítao como / Cite as
+# Cítao como / Cite as :bookmark:
 ```bib
 @inproceedings{alvarez-crespo-castro-2024-galician,
   title     = "A {G}alician Corpus for Misogyny Detection Online",
@@ -83,5 +83,5 @@ pip3 install -r requirements.txt
 }
 ```
 
-# :telephone_receiver: Manteñamos o contacto! / Get in touch! 
+# Manteñamos o contacto! / Get in touch! :telephone_receiver:
 [@luciamac_](https://www.twitter.com/luciamac_)
