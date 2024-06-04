@@ -9,7 +9,7 @@
 
 ##### 🐙 _O primeiro corpus galego para a detección de misoxinia_ 🐙 // 🇬🇧 _The First Galician corpus for misogyny detection_ 🇬🇧
 
-# :books: Corpus
+# Corpus :books:
 
 🐙 Este repositorio contén un corpus de chíos e toots procedentes de Twitter e Mastodon para a detección de misoxinia en lingua galega. Asemade, engádense os modelos adestrados co corpus proposto e os scripts desenvolvidos tanto para a creación do corpus como para o adestramento dos modelos.  
 
