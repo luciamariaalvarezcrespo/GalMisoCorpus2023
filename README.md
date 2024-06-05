@@ -15,6 +15,13 @@
 
 🇬🇧 This repository contains a corpus of tweets and toots from Twitter and Mastodon for the detection of misogyny in the Galician language. Additionally, it includes the trained models with the proposed corpus and the scripts developed both for creating the corpus and training the models.
 
+# Responsabilidade / Disclaimer :warning:
+> [!WARNING] 
+> 🐙 Este conxunto de datos pode conter discurso de odio, linguaxe ofensiva ou outro material semellante. O contido foi recollido de diversas fontes e non foi creado nin avaliado polas autoras do proxecto. Non reflicte as súas opinións ou puntos de vista. O conxunto de datos está destinado exclusivamente a fins de investigación, análise ou educativos. As autoras non avalan ningún comportamento prexudicial ou discriminatorio atopado nel. Debido ás políticas de privacidade, non se pode publicar o texto procedente de X/Twitter. Os usuarios deben actuar con precaución e sensibilidade ao usar o conxunto de datos e cumprir coas directrices éticas e as leis aplicábeis. As responsables do proxecto non asumen ningunha responsabilidade polo contido nin polo seu uso ou interpretación por terceiros.
+
+> [!WARNING]
+> 🇬🇧 This dataset may contain hate speech, offensive language, or other objectionable material. The content was collected from various sources and is not created or endorsed by the project authors. It does not reflect their views or opinions. The dataset is intended solely for research, analysis, or educational purposes. The authors do not endorse any harmful or discriminatory behavior found within it. Due to privacy policies, text from X/Twitter cannot be published. Users should exercise caution and sensitivity when using the dataset and adhere to ethical guidelines and applicable laws. The project maintainers disclaim any responsibility for the content and its use or interpretation by others.
+
 # Estrutura do repositorio / Repository structure :file_folder:
 
 ## 🐙 Galego
