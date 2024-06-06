@@ -7,36 +7,37 @@
 [![GitHub forks](https://img.shields.io/github/forks/luciamariaalvarezcrespo/GalMisoCorpus2023)](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/network)
 [![GitHub stars](https://img.shields.io/github/stars/luciamariaalvarezcrespo/GalMisoCorpus2023)](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/stargazers) [![GitHub watching](https://img.shields.io/github/watchers/luciamariaalvarezcrespo/GalMisoCorpus2023?style=social)](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/watchers)
 
-##### 🐙 _O primeiro corpus galego para a detección de misoxinia_ 🐙 // 🇬🇧 _The First Galician corpus for misogyny detection_ 🇬🇧
+##### 🐙 _O primeiro corpus galego para a detección de misoxinia_ 🐙
+##### 🇬🇧 _The First Galician corpus for misogyny detection_ 🇬🇧
 
-# Corpus :books:
+## Corpus :books:
 
 🐙 Este repositorio contén un corpus de chíos e toots procedentes de Twitter e Mastodon para a detección de misoxinia en lingua galega. Asemade, engádense os modelos adestrados co corpus proposto e os scripts desenvolvidos tanto para a creación do corpus como para o adestramento dos modelos.  
 
 🇬🇧 This repository contains a corpus of tweets and toots from Twitter and Mastodon for the detection of misogyny in the Galician language. Additionally, it includes the trained models with the proposed corpus and the scripts developed both for creating the corpus and training the models.
 
-# Responsabilidade / Disclaimer :warning:
+## Responsabilidade / Disclaimer :warning:
 > [!WARNING] 
 > 🐙 Este conxunto de datos pode conter discurso de odio, linguaxe ofensiva ou outro material semellante. O contido foi recollido de diversas fontes e non foi creado nin avaliado polas autoras do proxecto. Non reflicte as súas opinións ou puntos de vista. O conxunto de datos está destinado exclusivamente a fins de investigación, análise ou educativos. As autoras non avalan ningún comportamento prexudicial ou discriminatorio atopado nel. Debido ás políticas de privacidade, non se pode publicar o texto procedente de X/Twitter. Os usuarios deben actuar con precaución e sensibilidade ao usar o conxunto de datos e cumprir coas directrices éticas e as leis aplicábeis. As responsables do proxecto non asumen ningunha responsabilidade polo contido nin polo seu uso ou interpretación por terceiros.
 
 > [!WARNING]
 > 🇬🇧 This dataset may contain hate speech, offensive language, or other objectionable material. The content was collected from various sources and is not created or endorsed by the project authors. It does not reflect their views or opinions. The dataset is intended solely for research, analysis, or educational purposes. The authors do not endorse any harmful or discriminatory behavior found within it. Due to privacy policies, text from X/Twitter cannot be published. Users should exercise caution and sensitivity when using the dataset and adhere to ethical guidelines and applicable laws. The project maintainers disclaim any responsibility for the content and its use or interpretation by others.
 
-# Estrutura do repositorio / Repository structure :file_folder:
+## Estrutura do repositorio / Repository structure :file_folder:
 
-## 🐙 Galego
+### 🐙 Galego
 
 > - `/corpus`: aquí atópase o corpus utilizado para os adestramentos, así como o non preprocesado para interese dos grupos de investigación.
 > - `/scripts`: aquí atópanse os scripts usados durante a recompilación do corpus e durante o adestramento dos modelos. Engadíronse, tamén, scripts que axudaron no proceso de colleita de datos e de procesamento dos textos.
 > - `/models`: aquí atópanse os modelos xa adestrados.
 
-## 🇬🇧 English
+### 🇬🇧 English
 
 > - `/corpus`: Here you will find the corpus used for training, as well as the non-preprocessed corpus for the interest of research groups.
 > - `/scripts`: Here are the scripts used during the creation of the corpus and during the training of the models. Scripts were also added to assist in the data collection and text processing processes.
 > - `/models`: Here are the already trained models.
 
-# Instalación / Installation :wrench:
+## Instalación / Installation :wrench:
 🐙 Utiliza a ferramenta [requirements.txt](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/requirements.txt) para instalar todas as dependencias.  
 🇬🇧 Use the [requirements.txt](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/requirements.txt) tool to install all the requirements.   
 
@@ -44,7 +45,7 @@
 pip3 install -r requirements.txt
 ```
 
-# Contribucións / Contributing :open_hands:
+## Contribucións / Contributing :open_hands:
 🐙 As pull requests son benvidas. Para cambios maiores, abride primeiro unha issue para debater o que queirades cambiar, por favor.  
 
 > [!TIP]
@@ -69,12 +70,12 @@ pip3 install -r requirements.txt
 [branch]: https://help.github.com/articles/creating-and-deleting-branches-within-your-repository
 [pr]: https://help.github.com/articles/using-pull-requests/
 
-# Licenza / Licensing :scroll:
+## Licenza / Licensing :scroll:
 
 🐙 Este proxecto atópase baixo a licenza de Mozilla. Véxase [LICENSE](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/LICENSE) para o texto completo.  
 🇬🇧 This project is licensed under the Mozilla License. See [LICENSE](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/LICENSE) for the full license text.
 
-# Cítao como / Cite as :bookmark:
+## Cítao como / Cite as :bookmark:
 ```bib
 @inproceedings{alvarez-crespo-castro-2024-galician,
   title     = "A {G}alician Corpus for Misogyny Detection Online",
@@ -90,5 +91,5 @@ pip3 install -r requirements.txt
 }
 ```
 
-# Manteñamos o contacto! / Get in touch! :telephone_receiver:
+## Manteñamos o contacto! / Get in touch! :telephone_receiver:
 [@luciamac_](https://www.twitter.com/luciamac_)
