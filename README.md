@@ -16,6 +16,22 @@
 
 :gb: This repository contains a corpus of tweets and toots from Twitter and Mastodon for the detection of misogyny in the Galician language. Additionally, it includes the trained models with the proposed corpus and the scripts developed both for creating the corpus and training the models.
 
+## Cítao como / Cite as :bookmark:
+```bib
+@inproceedings{alvarez-crespo-castro-2024-galician,
+  title     = "A {G}alician Corpus for Misogyny Detection Online",
+  author    = "{\'A}lvarez-Crespo, Luc{\'\i}a M. and Castro, Laura M.",
+  editor    = "Gamallo, Pablo  and Claro, Daniela and Teixeira, Ant{\'o}nio and Real, Livy  and Garcia, Marcos  and Oliveira, Hugo Gon{\c{c}}alo  and Amaro, Raquel",
+  booktitle = "Proceedings of the 16th International Conference on Computational Processing of Portuguese",
+  month     = mar,
+  year      = "2024",
+  address   = "Santiago de Compostela, Galicia/Spain",
+  publisher = "Association for Computational Lingustics",
+  url       = "https://aclanthology.org/2024.propor-1.3",
+  pages     = "22--31",
+}
+```
+
 ## Responsabilidade / Disclaimer :warning:
 > [!WARNING] 
 > :octopus: Este conxunto de datos pode conter discurso de odio, linguaxe ofensiva ou outro material semellante. O contido foi recollido de diversas fontes e non foi creado nin avaliado polas autoras do proxecto, así como non reflicte as súas opinións ou puntos de vista. O conxunto de datos está destinado exclusivamente a fins de investigación, análise ou educativos. As autoras non avalan ningún comportamento prexudicial ou discriminatorio atopado nel. Debido ás políticas de privacidade, non se pode publicar o texto procedente de X/Twitter. As persoas usuarias deben actuar con precaución e sensibilidade ao usar o conxunto de datos e cumprir coas directrices éticas e as leis aplicábeis. As responsables do proxecto non asumen ningunha responsabilidade polo contido nin polo seu uso ou interpretación por terceiros.
@@ -74,22 +90,6 @@ pip3 install -r requirements.txt
 
 :octopus: Este proxecto atópase baixo a licenza de Mozilla. Véxase [LICENSE](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/LICENSE) para o texto completo.  
 :gb: This project is licensed under the Mozilla License. See [LICENSE](https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023/blob/main/LICENSE) for the full license text.
-
-## Cítao como / Cite as :bookmark:
-```bib
-@inproceedings{alvarez-crespo-castro-2024-galician,
-  title     = "A {G}alician Corpus for Misogyny Detection Online",
-  author    = "{\'A}lvarez-Crespo, Luc{\'\i}a M. and Castro, Laura M.",
-  editor    = "Gamallo, Pablo  and Claro, Daniela and Teixeira, Ant{\'o}nio and Real, Livy  and Garcia, Marcos  and Oliveira, Hugo Gon{\c{c}}alo  and Amaro, Raquel",
-  booktitle = "Proceedings of the 16th International Conference on Computational Processing of Portuguese",
-  month     = mar,
-  year      = "2024",
-  address   = "Santiago de Compostela, Galicia/Spain",
-  publisher = "Association for Computational Lingustics",
-  url       = "https://aclanthology.org/2024.propor-1.3",
-  pages     = "22--31",
-}
-```
 
 ## Manteñamos o contacto! / Get in touch! :telephone_receiver:
 [@luciamac_](https://www.twitter.com/luciamac_)
