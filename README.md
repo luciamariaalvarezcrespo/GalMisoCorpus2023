@@ -12,11 +12,12 @@
 
 ## Corpus :books:
 
-:octopus: Este repositorio contén un corpus de chíos e toots procedentes de Twitter e Mastodon para a detección de misoxinia en lingua galega. Asemade, engádense os modelos adestrados co corpus proposto e os scripts desenvolvidos tanto para a creación do corpus como para o adestramento dos modelos.  
+:octopus: Este repositorio contén un corpus de chíos e toots procedentes de Twitter e Mastodon para a detección de misoxinia en lingua galega. Asemade, engádense os modelos adestrados co corpus proposto e os scripts desenvolvidos tanto para a creación do corpus como para o adestramento dos modelos. Este traballo foi aceptado no 16th International Conference on Computational Processing of Portuguese (PROPOR 2024). O artigo está dispoñíbel [aquí](https://aclanthology.org/2024.propor-1.3/). 
 
-:gb: This repository contains a corpus of tweets and toots from Twitter and Mastodon for the detection of misogyny in the Galician language. Additionally, it includes the trained models with the proposed corpus and the scripts developed both for creating the corpus and training the models.
+:gb: This repository contains a corpus of tweets and toots from Twitter and Mastodon for the detection of misogyny in the Galician language. Additionally, it includes the trained models with the proposed corpus and the scripts developed both for creating the corpus and training the models. This work was accepted at the 16th International Conference on Computational Processing of Portuguese (PROPOR 2024). The paper is available [here](https://aclanthology.org/2024.propor-1.3/).
 
 ## Cítao como / Cite as :bookmark:
+
 ```bib
 @inproceedings{alvarez-crespo-castro-2024-galician,
   title     = "A {G}alician Corpus for Misogyny Detection Online",
