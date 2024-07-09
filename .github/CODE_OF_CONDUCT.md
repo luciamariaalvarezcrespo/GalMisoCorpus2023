@@ -2,7 +2,7 @@
 
 ## O noso compromiso
 
-Nós, como membros, contribuíntes e líderes, comprometémonos a facer da participación na nosa comunidade unha experiencia sen acoso a ninguén, independentemente da idade, tamaño do corpo, discapacidade visible ou invisible, etnia, características sexuais, identidade e expresión de xénero, nivel de experiencia, educación, estado socioeconómico, nacionalidade, aparencia persoal, raza, casta, cor, relixión, ou identidade e orientación sexual.
+Nós, como integrantes, contribuíntes e líderes, comprometémonos a facer da participación na nosa comunidade unha experiencia sen acoso a ninguén, independentemente da idade, tamaño do corpo, discapacidade visible ou invisible, etnia, características sexuais, identidade e expresión de xénero, nivel de experiencia, educación, estado socioeconómico, nacionalidade, aparencia persoal, raza, casta, cor, relixión, ou identidade e orientación sexual.
 
 Comprometémonos a actuar e interactuar en prol dunha comunidade aberta, acollente, diversa, inclusiva e saudábel.
 
