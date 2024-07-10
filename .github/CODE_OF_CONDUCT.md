@@ -60,7 +60,7 @@ As persoas líderes da comunidade seguirán estas Directrices de Impacto na Comu
 
 **Impacto na Comunidade**: unha grave violación dos estándares da comunidade, incluíndo comportamento inapropiado sustentado.
 
-**Consecuencia**: unha prohibición temporal de calquera tipo de interacción ou comunicación pública coa comunidade por un período especificado de tempo. Ningunha interacción pública ou privada coas persoas involucradas, incluída interacción non solicitada coas persoas que aplican o Código de Conduta, está permitida durante este período. Violación destes termos pode levar a unha prohibición permanente.
+**Consecuencia**: unha prohibición temporal de calquera tipo de interacción ou comunicación pública coa comunidade por un período especificado de tempo. Ningunha interacción pública ou privada coas persoas involucradas, incluída interacción non solicitada coas persoas que aplican o Código de Conduta, está permitida durante este período. A violación destes termos pode levar a unha prohibición permanente.
 
 ### 4. Prohibición Permanente
 
