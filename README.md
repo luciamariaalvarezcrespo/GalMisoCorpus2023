@@ -16,7 +16,11 @@
 
 :gb: This repository contains a corpus of tweets and toots from Twitter and Mastodon for the detection of misogyny in the Galician language. Additionally, it includes the trained models with the proposed corpus and the scripts developed both for creating the corpus and training the models. This work was accepted at the 16th International Conference on Computational Processing of Portuguese (PROPOR 2024). The paper is available [here](https://aclanthology.org/2024.propor-1.3/).
 
-### Cítao como / Cite as :bookmark:
+### Cítao como / Cite as :sparkling_heart:
+
+:octopus: Se consideras ao GalMisoCorpus2023 útil para o teu traballo de investigación, podes darlle unha :star: a este repo e citar o noso traballo facendo uso do seguinte BibTeX:
+
+:gb: If you find GalMisoCorpus2023 useful for your research, welcome to :star: this repo and cite our work using the following BibTeX:
 
 ```bib
 @inproceedings{alvarez-crespo-castro-2024-galician,
