@@ -24,16 +24,26 @@
 
 ```bib
 @inproceedings{alvarez-crespo-castro-2024-galician,
-  title     = "A {G}alician Corpus for Misogyny Detection Online",
-  author    = "{\'A}lvarez-Crespo, Luc{\'\i}a M. and Castro, Laura M.",
-  editor    = "Gamallo, Pablo  and Claro, Daniela and Teixeira, Ant{\'o}nio and Real, Livy  and Garcia, Marcos  and Oliveira, Hugo Gon{\c{c}}alo  and Amaro, Raquel",
-  booktitle = "Proceedings of the 16th International Conference on Computational Processing of Portuguese",
-  month     = mar,
-  year      = "2024",
-  address   = "Santiago de Compostela, Galicia/Spain",
-  publisher = "Association for Computational Lingustics",
-  url       = "https://aclanthology.org/2024.propor-1.3",
-  pages     = "22--31",
+  title         = "A {G}alician Corpus for Misogyny Detection Online",
+  author        = "{\'A}lvarez-Crespo, Luc{\'\i}a M. and Castro, Laura M.",
+  editor        = "Gamallo, Pablo  and Claro, Daniela and Teixeira, Ant{\'o}nio and Real, Livy  and Garcia, Marcos  and Oliveira, Hugo Gon{\c{c}}alo  and Amaro, Raquel",
+  booktitle     = "Proceedings of the 16th International Conference on Computational Processing of Portuguese",
+  month         = mar,
+  year          = "2024",
+  address       = "Santiago de Compostela, Galicia/Spain",
+  publisher     = "Association for Computational Lingustics",
+  url           = "https://aclanthology.org/2024.propor-1.3",
+  pages         = "22--31",
+}
+
+@inproceedings{alvarez2023unveiling,
+  title         = {Unveiling the Dark Side of Social Media: Developing the First Galician Corpus for Misogyny Detection on Twitter and Mastodon},
+  author        = {{\'A}lvarez-Crespo, Luc{\'\i}a M. and Castro, Laura M},
+  booktitle     = {VI Congreso Xove TIC: impulsando el talento cient{\'\i}fico. A Coru{\~n}a},
+  pages         = {87--90},
+  month         = {oct},
+  year          = {2023},
+  organization  = {Universidade da Coru{\~n}a, Servizo de Publicaci{\'o}ns}
 }
 ```
 
